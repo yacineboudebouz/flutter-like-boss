@@ -62,9 +62,21 @@ It's great to see you here. Let's learn flutter together.
 * [**Flutter Foundations** : _Advanced flutter course cover a whole section about riverpod._](https://courses.codewithandrea.com/p/flutter-foundations-complete) [Paid]
 * [**Riverpod Course** : _Riverpod for beginners course by Rivaan Ranawat._](https://youtu.be/pwflXIA-6YQ?si=gWgmIItO5j52C1t5) [Video]
 * [**Riverpod Project Based** : _Project video 17 hours long by Vandad_](https://youtu.be/vtGCteFYs4M?si=ddKWhP9wfmjC_nWY) [Video]
+* [**Riverpod's Creator** : _Learn riverpod by coding with it's creator Remi Rousselet._](https://youtu.be/QS3XtFoFN1I?si=nTpaJ8EhgKCzt7IR) [Video]
+
+##### `BLOC`
+
+* [**BLOC Documentation** : _You can check the official documentation._](https://bloclibrary.dev/)
+* [**Bloc from zero to hero** : _Learn the basics of bloc with Flutterfly_](https://youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&si=Z-wzaZURYp9assC5) [Video]
+* [**Bloc MasterClass** : _Learn Bloc in depth Tiberiu Potec_](https://www.udemy.com/course/bloc-from-zero-to-hero/) [Paid]
 
 
 ### `Animations`
+* [**Animations Documentation** : _You can check the official documentation._](https://docs.flutter.dev/ui/animations)
+* [**Flutter animations masterclass** : _Learn animations by building projects by Andrea Bizzotto._](https://codewithandrea.com/courses/flutter-animations-masterclass/) [Paid]
+* [**Flutter Animations Course** : _Full Course of animations by Vandad_](https://youtube.com/playlist?list=PL6yRaaP0WPkW3kwAerPeRqGBvJfO8O4S7&si=mpGDrSXZO3uRjHLn) [Video]
+* [**Flutter Animations Tutorial** : _Learn animations by doing with Rivaan Ranawat._](https://youtu.be/pv4NhV86ZKg?si=W9suVDqN1dBtN7rh) [Video]
+
 ### `Firebase`
 ### `Rest API`
 ### `Testing`
