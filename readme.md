@@ -105,6 +105,13 @@ It's great to see you here. Let's learn flutter together.
      - [Part 4](https://www.youtube.com/watch?v=QNnuFxhjP5Q&list=PL3nPgdhXQtHfKc8HYiSeA-yKzw9JrBoTG&index=8)
      - [Part 5](https://www.youtube.com/watch?v=4NJG2uFTCBg&list=PL3nPgdhXQtHfKc8HYiSeA-yKzw9JrBoTG&index=9)
    - **Description:** This is a full-stack flutter application that includes a backend built with Node.js, Express, and MongoDB, as well as a frontend built with Flutter. The app features various functionalities such as Firebase notifications, Nodemailer, and GetX state management.
+4. **Flutter Amazon Clone**
+   - **What you learn:** ![Flutter](https://img.shields.io/badge/-Flutter-blue) ![GetX](https://img.shields.io/badge/-Provider-green) ![Firebase](https://img.shields.io/badge/-Expressjs-yellow) ![DarkTheme](https://img.shields.io/badge/-Mongodb-gray) ![Android/iOS](https://img.shields.io/badge/-Android/iOS-blue)
+   - **Links:**
+     - [Link 1](https://youtu.be/O3nmP-lZAdg?si=1Yxe9dAgbIh9c1Xt)
+     - [Link 2](https://youtu.be/ylJz7N-dv1E?si=Rji_3qRtFYKQqgU_)
+     - [Link 3](https://www.udemy.com/course/flutter-node-tutorial/) [Paid]
+   - **Description:** This is fully functional amazon clone with admin panel.
 ### `Bonus`
 ### `Contribute`
 
