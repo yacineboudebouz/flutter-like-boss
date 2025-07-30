@@ -78,6 +78,9 @@ It's great to see you here. Let's learn flutter together.
 * [**Flutter Animations Tutorial** : _Learn animations by doing with Rivaan Ranawat._](https://youtu.be/pv4NhV86ZKg?si=W9suVDqN1dBtN7rh) [Video]
 
 ### `Firebase`
+* [**Flutter & Firebase Masterclass** : _Flutter and firebase course by Andrea Bizzoto, by far one of the best._](https://codewithandrea.com/courses/flutter-firebase-masterclass/)[Paid]
+* [**Flutter Firebase Course** : _Firebase course by Wael Abo Hamza (arabic)_](https://youtube.com/playlist?list=PL93xoMrxRJIvHhxhB21YzzeimEEzzAz6g&si=nE29VeDjgH9JF6Na) [Video]
+
 ### `Rest API`
 ### `Testing`
 ### `Projects`
@@ -86,6 +89,7 @@ It's great to see you here. Let's learn flutter together.
 * [**Flutter Study App** : _Complete Firebase app with quiz functionality and dark theme._](https://www.youtube.com/watch?v=ZSVnIphlGKI) [Video]
 * [**Flutter Multi Vendor App** : _Full-stack e-commerce app with Node.js backend._](https://www.youtube.com/watch?v=NHlVuQpy8B4&list=PL3nPgdhXQtHfKc8HYiSeA-yKzw9JrBoTG&index=3) [Video]
 * [**Flutter Amazon Clone** : _Fully functional Amazon clone with admin panel._](https://youtu.be/O3nmP-lZAdg?si=1Yxe9dAgbIh9c1Xt) [Video]
+* [**Spotify Clone** : _Spotify Clone with firebase and Bloc._](https://www.youtube.com/watch?v=4TFbXepOjLI&t=85s) [Video]
 ### `Bonus`
 ### `Contribute`
 
